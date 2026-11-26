@@ -73,4 +73,4 @@ Use um objetivo fictício por habilidade e verifique se a resposta produz regist
 - [x] Planner com plano de ação, rotina, obstáculos e acompanhamento.
 - [x] Cinco habilidades descritas e demonstradas.
 - [x] Repositório público com nome em minúsculas e sem acento.
-- [ ] Adicionar prints reais do Planner de exemplo, caso disponíveis.
+- [x] Adicionar prints reais do Planner de exemplo, caso disponíveis.
