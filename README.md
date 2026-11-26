@@ -66,8 +66,6 @@ Demonstração completa: [demonstracao.md](demonstracao.md).
 
 Use um objetivo fictício por habilidade e verifique se a resposta produz registros concretos, respeita restrições, mantém relações corretas, define critérios observáveis, oferece um próximo passo pequeno e explicita hipóteses.
 
-https://app.notion.com/p/Assistente-Planner-IA-Painel-e-guia-424426df1eaa812d8570c042bc8b1903?pvs=12
-
 ## Checklist
 
 - [x] Documento em Markdown.
