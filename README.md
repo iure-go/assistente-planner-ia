@@ -1,4 +1,4 @@
-# assistente-planner-ia
+#Assistente-planner-ia
 
 Assistente de planejamento no Notion e no ChatGPT para transformar objetivos de estudo, carreira ou negócio em planos executáveis, adaptados à rotina e revisados por evidências.
 
